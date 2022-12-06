@@ -1,6 +1,15 @@
-this is line 1
-this is lien 2
-this is lien 3
-this is lline 4
-this is line 5
-this is line 6
+total 44
+drwxr-xr-x 2 root root 250 Dec  5 16:15 .
+drwxr-xr-x 6 root root 121 Dec  5 14:44 ..
+-rwxr--r-- 1 root root  32 Dec  5 15:07 0-hello_world
+-rwxr--r-- 1 root root  28 Dec  5 15:22 1-confused_smiley
+-rwxr--r-- 1 root root  28 Dec  5 15:24 2-hellofile
+-rwxr--r-- 1 root root  39 Dec  5 15:26 3-twofiles
+-rwxr--r-- 1 root root  29 Dec  5 15:28 4-lastlines
+-rwxr--r-- 1 root root  29 Dec  5 15:30 5-firstlines
+-rwxr--r-- 1 root root  36 Dec  5 15:50 6-third_line
+-rwxr--r-- 1 root root  79 Dec  5 16:05 7-file
+-rwxr--r-- 1 root root  35 Dec  5 16:15 8-cwd_state
+-rw-r--r-- 1 root root  13 Dec  5 15:59 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root  11 Dec  5 14:45 README.md
+-rw-r--r-- 1 root root   0 Dec  5 16:18 test_file
