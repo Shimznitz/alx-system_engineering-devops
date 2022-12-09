@@ -1,1 +1,1 @@
-this details shell learnin gexperience
+this details shell learning experience
